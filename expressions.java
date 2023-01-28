@@ -23,7 +23,6 @@ public class expressions {
         System.out.println(x != 5 && y >= 5);
         System.out.println(z != 0 || x == 2);
         System.out.println(!(y < 10));
-        System.out.println(!(y < 10));
-        System.out.println(!(y < 10));
+
     }
 }
